@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: user-agent-scraper
+Version: 0.0.7
+Summary: scrape user agents
+Home-page: http://example.com
+Author: sheepsushis
+Author-email: gmajosi1@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# user-agent-scraper
+
+scrape user agents from many browsers
+
