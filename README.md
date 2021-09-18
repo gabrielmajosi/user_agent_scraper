@@ -9,7 +9,7 @@ You can view all possible browsers [here](http://www.useragentstring.com/pages/u
 
 ## example:
 
-`import user_agent_scraper`
+`import user_agent_scraper`\n
 `import requests`
 
 `agents = user_agent_scraper.scrape_user_agents(["Firefox", "Edge"])`
