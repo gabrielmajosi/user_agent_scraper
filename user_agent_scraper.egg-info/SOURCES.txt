@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-user_agent_scraper/__init__.py
-user_agent_scraper/user_agent_scraper.py
-user_agent_scraper.egg-info/PKG-INFO
-user_agent_scraper.egg-info/SOURCES.txt
-user_agent_scraper.egg-info/dependency_links.txt
-user_agent_scraper.egg-info/top_level.txt
