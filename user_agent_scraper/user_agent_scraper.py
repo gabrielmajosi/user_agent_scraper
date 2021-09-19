@@ -39,7 +39,7 @@ def validate_browser_list_(browsers):
 
     return valid_browsers
 
-def get_valid_agents():
+def scrape_valid_browsers():
     return validate_browser_list_([])
 
 def scrape_user_agents(browsers):

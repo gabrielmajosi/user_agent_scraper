@@ -1,1 +1,1 @@
-from .user_agent_scraper import get_valid_agents, scrape_user_agents
+from .user_agent_scraper import scrape_user_agents, scrape_valid_browsers
