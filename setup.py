@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setuptools.setup(
     name="user_agent_scraper",
-    version="1.0.0",
+    version="1.0.1",
     author="sheepsushis",
     author_email="gmajosi1@gmail.com",
     description="scrape user agents",
