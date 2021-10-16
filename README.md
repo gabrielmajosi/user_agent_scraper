@@ -1,6 +1,6 @@
 # user_agent_scraper
 
-To install or update - `pip3 install --upgrade user_agen_scraper`
+To install or update - `pip3 install --upgrade user_agent_scraper`
 You can view all possible browsers [here](http://www.useragentstring.com/pages/useragentstring.php).
 
 
